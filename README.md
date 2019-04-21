@@ -22,4 +22,4 @@ yay deepin-wine-wechat
 
 ## 更新日志
 
-* 2019-04-20 5.7.3
+* 2019-04-20 BaiduNetDisk-5.7.3
